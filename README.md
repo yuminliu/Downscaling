@@ -5,7 +5,8 @@ Climate Downscaling using Computer Vision Techniques
 This is a python implementation for the KDD 2020 paper "Climate Downscaling Using YNet: a Deep Convolutional Network with Skip Connections and Fusion"
 
 Usage:
-1. Place the src folder and data folder in your own folder (say /Downscaling/)
+1. Place the src folder and data folder in your own folder (say /Downscaling/) to form those folders:
+
 /Downscaling/src/
 /Downscaling/data/
 
